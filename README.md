@@ -43,7 +43,7 @@ Mis proyectos más recientes fueron hechos de esta forma, y sigo aprendiendo cad
 
 ### 🏪 Sistema de ventas con QR (en desarrollo)
 Sistema web de ventas e inventario para negocios con **varias sucursales**. Usa lectura de **códigos QR** en lugar de código de barras, e incluye control de stock por sucursal y gestión de clientes (CRM).
-**Tecnologías:** Next.js · TypeScript · Supabase
+**Tecnologías:** PHP · MySQL · JavaScript · HTML · CSS
 
 ![Sistema de ventas QR](capturas/ventas-qr.png)
 ![Sistema de ventas QR](capturas/venta-qr2.png)
