@@ -46,7 +46,7 @@ Sistema web de ventas e inventario para negocios con **varias sucursales**. Usa 
 **Tecnologías:** Next.js · TypeScript · Supabase
 
 ![Sistema de ventas QR](capturas/ventas-qr.png)
-![Sistema de ventas QR](capturas/ventas-qr2.png)
+![Sistema de ventas QR](capturas/venta-qr2.png)
 
 ### 👓 ERP Óptico
 Sistema de escritorio para ópticas: registro de clientes y medidas, ventas e inventario.
