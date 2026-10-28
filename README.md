@@ -39,7 +39,7 @@ Mis proyectos más recientes fueron hechos de esta forma, y sigo aprendiendo cad
 
 ## 🚀 Proyectos
 
-> Los proyectos comerciales tienen código privado. Aquí muestro qué hacen y con qué están construidos.
+> Los proyectos comerciales tienen código privado. Aquí muestro qué hacen y con qué están construidos. Todas las capturas usan **datos de prueba**.
 
 ### 🏪 Sistema de ventas con QR (en desarrollo)
 Sistema web de ventas e inventario para negocios con **varias sucursales**. Usa lectura de **códigos QR** en lugar de código de barras, e incluye control de stock por sucursal y gestión de clientes (CRM).
